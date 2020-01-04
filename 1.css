@@ -1,0 +1,240 @@
+
+
+#w:hover {
+    color: rgb(238, 66, 14);
+}
+
+#a {
+    font-size: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#a:hover {
+    color: rgb(238, 66, 14);
+}
+.b {
+    background: rgb(40, 187, 40);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    border: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: left;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.b:hover {
+    color: red;
+}
+#c {
+    max-width: 150px;
+    max-height: 150px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#w {
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+#f {
+    margin-bottom: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}
+
+#f:hover{
+    color: rgb(238, 66, 14);
+}
+.e {
+    background: rgb(40, 187, 40);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 4px 5px;
+    border: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 2px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.e:hover {
+    color: red
+}
+#f {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.g{
+    background: rgb(40, 187, 40);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    border: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: left;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.g:hover{
+    color: rgb(238, 66, 14);
+}
+#img{
+    margin-bottom: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#h {
+    font-size: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#h:hover{
+    color: rgb(238, 66, 14);
+}
+
+.i {
+    background: rgb(40, 187, 40);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    border: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: left;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.i:hover{
+    color: rgb(238, 66, 14);
+}
+
+#k {
+    margin-bottom: auto;
+    margin-right: auto;
+    
+}
+
+#l {
+    font-size: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#l:hover {
+    color: rgb(238, 66, 14);
+}
+
+#m {
+    background: rgb(40, 187, 40);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    border: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: left;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#m:hover {
+    color: rgb(238, 66, 14);
+}
+
+#img3 {
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+#n {
+    font-size: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#n:hover {
+    color: rgb(40, 187, 40);
+}
+
+.pr1 {
+    background: rgb(40, 187, 40);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    border: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: left;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pr1:hover{
+    color: rgb(238, 66, 14);
+}
+
+#img4 {
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+#z {
+    font-size: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+#z:hover {
+    color: rgb(40, 187, 40);
+}
+
+#id1 {
+    background: rgb(40, 187, 40);
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    border: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: left;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#id1:hover {
+    color: rgb(238, 66, 14);
+}
+
+#img5 {
+    margin-bottom: auto;
+    margin-right: auto;
+}
